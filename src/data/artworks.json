@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "title": "The Divine Gaze",
+    "category": "Devotion",
+    "status": "available",
+    "image": "/artworks/painting-1.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 2,
+    "title": "A Love Eternal",
+    "category": "Devotion",
+    "status": "sold",
+    "image": "/artworks/painting-2.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 3,
+    "title": "Under Northern Skies",
+    "category": "Dreamscapes",
+    "status": "available",
+    "image": "/artworks/painting-3.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 4,
+    "title": "The Last Golden Hour",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-4.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 5,
+    "title": "A Little Piece of Sky",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-5.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 6,
+    "title": "Where the Aurora Sleeps",
+    "category": "Dreamscapes",
+    "status": "available",
+    "image": "/artworks/painting-6.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 7,
+    "title": "Mountains After Midnight",
+    "category": "Dreamscapes",
+    "status": "sold",
+    "image": "/artworks/painting-7.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 8,
+    "title": "Chasing the Light",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-8.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 9,
+    "title": "Somewhere Beyond",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-9.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 10,
+    "title": "A Starry Companion",
+    "category": "Wildlife",
+    "status": "sold",
+    "image": "/artworks/painting-10.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 11,
+    "title": "Fields of Daydreams",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-11.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 12,
+    "title": "A Sunset to Keep",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-12.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 13,
+    "title": "In Full Bloom",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-13.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 14,
+    "title": "Sunflowers & Starry Nights",
+    "category": "Dreamscapes",
+    "status": "sold",
+    "image": "/artworks/painting-14.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 15,
+    "title": "Quiet Devotion",
+    "category": "Devotion",
+    "status": "available",
+    "image": "/artworks/painting-15.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 16,
+    "title": "A Sacred Journey",
+    "category": "Devotion",
+    "status": "available",
+    "image": "/artworks/painting-16.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 17,
+    "title": "The Cosmic Dancer",
+    "category": "Devotion",
+    "status": "available",
+    "image": "/artworks/painting-17.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 18,
+    "title": "My Favourite Star",
+    "category": "Wildlife",
+    "status": "sold",
+    "image": "/artworks/painting-18.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 19,
+    "title": "Two Little Souls",
+    "category": "Wildlife",
+    "status": "available",
+    "image": "/artworks/painting-19.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 20,
+    "title": "When the Meadow Dreams",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-20.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 21,
+    "title": "Into the Wild",
+    "category": "Wildlife",
+    "status": "available",
+    "image": "/artworks/painting-21.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 22,
+    "title": "A Thousand Distant Stars",
+    "category": "Dreamscapes",
+    "status": "sold",
+    "image": "/artworks/painting-22.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 23,
+    "title": "The Secret Waterfall",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-23.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 24,
+    "title": "The Scenic Route",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-24.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 25,
+    "title": "Stillness in the Pines",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-25.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 26,
+    "title": "Tropical Twilight",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-26.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 27,
+    "title": "The Ocean Within",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-27.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 28,
+    "title": "Dancing in the Moonlight",
+    "category": "Dreamscapes",
+    "status": "sold",
+    "image": "/artworks/painting-28.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 29,
+    "title": "Deep in the Forest",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-29.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 30,
+    "title": "Blue Devotion",
+    "category": "Devotion",
+    "status": "available",
+    "image": "/artworks/painting-30.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 31,
+    "title": "Where the River Wanders",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-31.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 32,
+    "title": "A Sky Full of Shiva",
+    "category": "Devotion",
+    "status": "available",
+    "image": "/artworks/painting-32.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 33,
+    "title": "Melody of Faith",
+    "category": "Devotion",
+    "status": "sold",
+    "image": "/artworks/painting-33.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 34,
+    "title": "A Window to Somewhere",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-34.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 35,
+    "title": "Wild & Wonderful",
+    "category": "Wildlife",
+    "status": "sold",
+    "image": "/artworks/painting-35.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 36,
+    "title": "Golden Reflections",
+    "category": "Nature",
+    "status": "available",
+    "image": "/artworks/painting-36.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  },
+  {
+    "id": 37,
+    "title": "Written in the Stars",
+    "category": "Dreamscapes",
+    "status": "available",
+    "image": "/artworks/painting-37.webp",
+    "description": "An original painting by Himanshi Kadu. A small invitation to pause, look closer, and find a little wonder in the everyday."
+  }
+]
