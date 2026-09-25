@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { ArrowUpRight, ArrowDown, ArrowRight, Instagram, Menu, X, Search, SlidersHorizontal } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 import artworks from './data/artworks.json';
 import './styles.css';
 const instagram='https://www.instagram.com/theweekendartist__/';
@@ -31,6 +32,7 @@ function App(){
  <section id="contact" className="contact section-pad"><div className="contact-top"><span className="eyebrow">GOOD ART STARTS A CONVERSATION.</span><span>LET’S MAKE IT PERSONAL ↘</span></div><div className="contact-main reveal"><h2>Your wall.<br/><em>Our next story.</em></h2><div><p>Found a piece you love?<br/>Have something special in mind?<br/>I’d love to hear from you.</p><a className="button cream" href={instagram} target="_blank" rel="noreferrer">Say hello on Instagram <ArrowUpRight size={19}/></a></div><span className="contact-flower">✳</span></div><footer><a className="footer-logo" href="#home">himanshi.</a><span>© {new Date().getFullYear()} Himanshi Kadu · Made with a little love.</span><a href="#home">BACK TO TOP <ArrowUpRight size={15}/></a></footer></section>
  </main>
  <dialog ref={dialog} className="art-dialog" aria-labelledby="artwork-title" onCancel={()=>setSelected(null)} onClick={e=>{if(e.target===dialog.current)setSelected(null)}}>{selected&&<div className="dialog-inner"><button className="close-dialog" aria-label="Close artwork details" onClick={()=>setSelected(null)}><X size={22}/></button><div className="dialog-image"><img src={selected.image} alt={selected.title}/></div><div className="dialog-copy"><div className="eyebrow">AN ORIGINAL BY HIMANSHI KADU</div><span className={'status '+selected.status}><i/>{selected.status==='sold'?'Sold · Found a home':'Available to collect'}</span><h2 id="artwork-title">{selected.title}</h2><p>{selected.description}</p><dl><div><dt>Collection</dt><dd>{selected.category}</dd></div><div><dt>Details & pricing</dt><dd>Ask the artist</dd></div></dl><p className="inquiry-note">{selected.status==='sold'?'This piece has found its home. Love this style? Ask Himanshi about a similar commission.':'Make this little world a part of yours. Message Himanshi for the price, dimensions, and delivery details.'}</p><a className="button dark" href={instagram} target="_blank" rel="noreferrer">{selected.status==='sold'?'Ask about a similar piece':'Enquire about this painting'}<ArrowUpRight size={18}/></a><small>Mention “{selected.title}” in your message.</small></div></div>}</dialog>
+ <Analytics />
  </>
 }
 createRoot(document.getElementById('root')).render(<App/>);
